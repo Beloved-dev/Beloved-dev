@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Beloved-dev
-- 👀 I’m interested in raspberry
-- 🌱 I’m currently learning raspberry programmation
+- 👀 I’m interested in raspberry and IOT
+- 🌱 I’m currently learning raspberry and IOT programmation
 - 💞️ I’m looking to collaborate on email
 - 📫 How to reach me erastenduwayo@gmail.com
 
